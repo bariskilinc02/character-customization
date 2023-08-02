@@ -240,7 +240,7 @@ GameObject:
   - component: {fileID: 2964237226634048621}
   - component: {fileID: 390774708829203188}
   m_Layer: 5
-  m_Name: Torso Page
+  m_Name: Page
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
