@@ -1,0 +1,65 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Character_Leg
+  m_EditorClassIdentifier: 
+  m_GroupName: Character_Leg
+  m_Data:
+    m_SerializedData: []
+  m_GUID: f3fb83e388beff947b7360948272ee6f
+  m_SerializeEntries:
+  - m_GUID: 4e0a3a09d05339c419b5e64bff4e3d40
+    m_Address: Assets/Prefabs/Character/Clothes/Leg/Pants_1 1.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 5828f719549b67b4ab05e01a338a7eeb
+    m_Address: Assets/Prefabs/Character/Clothes/Leg/Pants_1.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 6679abe7797f8e341bdcf63d5b773af5
+    m_Address: Assets/Prefabs/Character/Clothes/Leg/Pants_2.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 281834c9caace3a449ce61f96de56855
+    m_Address: Assets/Prefabs/Character/Clothes/Leg/Pants_3.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 5887bed90f2a56d48b21d58047567228
+    m_Address: Assets/Prefabs/Character/Clothes/Leg/Pants_4.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: f19bafab4d6c1df40a224855989a4c01
+    m_Address: Assets/Prefabs/Character/Clothes/Leg/Pants_5.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: e15cd5054f2283a45ae5c5c08f26733b
+    m_Address: Assets/Prefabs/Character/Clothes/Leg/Pants_6.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 55bf3bbab2ded2c4e83abb10121f8c63
+    m_Address: Assets/Prefabs/Character/Clothes/Leg/Pants_Social_1.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: d36eea9779723cb41bdaa57aba07840a
+    m_Address: Assets/Prefabs/Character/Clothes/Leg/Pants_Social_2.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: ea503dbd3a287bd43916569c5956755d
+    m_Address: Assets/Prefabs/Character/Clothes/Leg/Pants_Social_3.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: 04eaf477ce2fcd0479e464c00abb649e, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: ae6265e1491c3d44c9dd2db5ed82117f, type: 2}
+    - {fileID: 11400000, guid: f00a7a94c74dcc24ca7fb017ef5bb92b, type: 2}

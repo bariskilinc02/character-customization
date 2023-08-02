@@ -1,0 +1,53 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Character_Feet
+  m_EditorClassIdentifier: 
+  m_GroupName: Character_Feet
+  m_Data:
+    m_SerializedData: []
+  m_GUID: 06239cdb64644a24e8932a5464fd4076
+  m_SerializeEntries:
+  - m_GUID: 2eeba2558e20cf24daec9e6824b4b396
+    m_Address: Assets/Prefabs/Character/Clothes/Shoe/Boots_Military.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: baf5fb34fdb63054eb08135bac44fd91
+    m_Address: Assets/Prefabs/Character/Clothes/Shoe/Shoe_1.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: a16fbb1d84bfdf84e97d9428081f5518
+    m_Address: Assets/Prefabs/Character/Clothes/Shoe/Shoe_2.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 022fd2fbbfe11694f8d37016e038bc04
+    m_Address: Assets/Prefabs/Character/Clothes/Shoe/Short_1.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 274e31174cc739042a8104fa74657613
+    m_Address: Assets/Prefabs/Character/Clothes/Shoe/Short_2.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 57971606eefbe384da62d69a9edc50db
+    m_Address: Assets/Prefabs/Character/Clothes/Shoe/Sneaker_1.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 19ed7c20ce27c4147bcd264155d51b9d
+    m_Address: Assets/Prefabs/Character/Clothes/Shoe/Sneaker_2.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: 04eaf477ce2fcd0479e464c00abb649e, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: e48810fa3648b5942ab92b72f6b8f5fc, type: 2}
+    - {fileID: 11400000, guid: 02bb962399f62994a945365391198d08, type: 2}

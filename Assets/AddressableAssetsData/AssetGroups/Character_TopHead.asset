@@ -1,0 +1,85 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Character_TopHead
+  m_EditorClassIdentifier: 
+  m_GroupName: Character_TopHead
+  m_Data:
+    m_SerializedData: []
+  m_GUID: 0ccc24f988efdf9408e8916ff83b35e7
+  m_SerializeEntries:
+  - m_GUID: 1b3d1390a7fc9db45ad70f50524104d9
+    m_Address: Assets/Prefabs/Character/Clothes/Torso/Shirt_1.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: c8d5a0e0b6aa16940824222167af77eb
+    m_Address: Assets/Prefabs/Character/Clothes/Torso/Shirt_2.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 2d79498c7386ec74e900a082a337da28
+    m_Address: Assets/Prefabs/Character/Clothes/Torso/Shirt_3.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 09b68cf9ddc833e4c91a666b158b852c
+    m_Address: Assets/Prefabs/Character/Clothes/Torso/Shirt_5.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 83cfb9610ff47f342bd3728bf6c035e7
+    m_Address: Assets/Prefabs/Character/Clothes/Torso/Shirt_Survival_1.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: ee98ac05a8f807f4b9f809f7cd18eb70
+    m_Address: Assets/Prefabs/Character/Clothes/Torso/Solcial_1.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: d048f1c9932e06e438c81d8f9b7216bb
+    m_Address: Assets/Prefabs/Character/Clothes/Torso/Solcial_2.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 4bc0989325d8e8a40b0031e8da34b628
+    m_Address: Assets/Prefabs/Character/Clothes/Torso/Solcial_3.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 9b865da64580d2549938d9d39b615f4d
+    m_Address: Assets/Prefabs/Character/Clothes/Torso/Solcial_4.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: c2d5c72b1034b094d81b775ed2b08499
+    m_Address: Assets/Prefabs/Character/Clothes/Torso/Solcial_5.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 2cc82a82fe9d70946bbb983472d337f0
+    m_Address: Assets/Prefabs/Character/Clothes/Torso/T_shirt_1.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 3b6ecd5a901f58f4c9a517365c9b6d34
+    m_Address: Assets/Prefabs/Character/Clothes/Torso/T_shirt_2.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: fdddd6a4efffa01458437258807debc0
+    m_Address: Assets/Prefabs/Character/Clothes/Torso/T_shirt_3.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 2f4be1bc5c0613e4bb405091959d9323
+    m_Address: Assets/Prefabs/Character/Clothes/Torso/Topping_1.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 8988aa83f5f21224e879730925934c72
+    m_Address: Assets/Prefabs/Character/Clothes/Torso/Topping_3.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: 04eaf477ce2fcd0479e464c00abb649e, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: aeb6c86474261a845929aa3a04ed8e30, type: 2}
+    - {fileID: 11400000, guid: 739cbcfe052a003428cad8f51e8af0fc, type: 2}
